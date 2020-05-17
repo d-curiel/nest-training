@@ -11,7 +11,7 @@ Overview about the framework and it's architecture.
 * [NestJs CLI](https://docs.nestjs.com/cli/overview) 
 * [Docker](https://www.docker.com/products/docker-desktop)
 
-### Setting Up
+### Setting Up 🎩
 
 - Clone this repository
 - Execute at the root of the project <pre><code>docker-compose up -d</pre></code>
