@@ -22,5 +22,6 @@ Overview about the framework and it's architecture.
 - Enjoy!
 
 ---
-[danielcuriel](https://www.linkedin.com/in/curieldaniel7/)
+Coded by [danielcuriel](https://www.linkedin.com/in/curieldaniel7/)
+---
 <em>If you know what you’re worth then go out and get what you’re worth</em> ⚡
